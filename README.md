@@ -37,8 +37,8 @@ The challenge is to build out this **Recipe page** and get it looking as close t
 
 ### Links
 
-- Solution URL: [Solution]()
-- Live Site URL: [Live site]()
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/recipe-page-solution-DlL6JYHSHq)
+- Live Site URL: [Live site](https://surjo.pages.dev/Frontend-Mentor-projects/recipe-page/)
 
 ## My process
 
